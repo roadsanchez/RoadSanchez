@@ -1,6 +1,4 @@
-
 # Hi, I'm RivalOps ! 👋
-
 
 ## 🚀 About Me
 I am a standalone developer, working on various website project, bot discord, and passionate about it!
@@ -15,6 +13,24 @@ OmniHive is a multi-language bot, mainly related to the protection of discord se
 VtcManager’s is a multi-function discord bot only for virtual businesses euro truck simulator 2/ american truck simulator, either solo or TruckersMP.
 
 - If you would like to see my projects, here are the links below:
+
+
+U+1F1EBU+1F1F7
+# Bonjour, je suis RivalOps ! 👋
+
+## 🚀 À propos de moi
+Je suis un développeur indépendant, travaillant sur divers projets de sites web, bot discord, et passionné par cela!
+
+Je travaille sur divers projets de discorde :
+- 🤖 | [/]-BlueBot (ancien bot de discorde certifié)
+- OmniHive (bot de discord certifié)
+- VtcManager’s (bot discord + site web)
+
+OmniHive est un bot multilingue, principalement lié à la protection des serveurs de discorde (anti-raid / anti-nuke / anti-spam / twitch live ad / risque utilisateurs compte discord / statistiques en temps réel)
+
+VtcManager’s est un robot de discord multi-fonction uniquement pour les entreprises virtuelles euro truck simulator 2 / american truck simulator, soit solo ou TruckersMP.
+
+- Si vous souhaitez voir mes projets, voici les liens ci-dessous :
 ## 🔗 Links
 [![OmniHive](https://img.shields.io/badge/omnihive-fec200?style=for-the-badge&logo=linkedin&logoColor=white)](https://omnihive.fr/)
 
