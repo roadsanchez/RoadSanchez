@@ -1,4 +1,4 @@
-![Drapeau Anglais](https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg?width=20)  
+<img src="https://flagcdn.com/gb.svg" width="40" title="Anglais">
 # Hi, I'm RivalOps ! 👋
 
 ## 🚀 About Me
@@ -16,7 +16,7 @@ VtcManager’s is a multi-function discord bot only for virtual businesses euro 
 - If you would like to see my projects, here are the links below:
 
 
-![Drapeau Français](https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg?width=20)  
+<img src="https://flagcdn.com/fr.svg" width="40" title="Français">
 # Bonjour, je suis RivalOps ! 👋
 
 ## 🚀 À propos de moi
