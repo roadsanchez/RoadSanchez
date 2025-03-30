@@ -17,12 +17,8 @@ VtcManager’s is a multi-function discord bot only for virtual businesses euro 
 - If you would like to see my projects, here are the links below:
 ## 🔗 Links
 [![OmniHive](https://img.shields.io/badge/omnihive-fec200?style=for-the-badge&logo=linkedin&logoColor=white)](https://omnihive.fr/)
-![OmniHive](https://img.shields.io/gitlab/forks/OmniHive)
 
 [![VtcManager's](https://img.shields.io/badge/VtcManager's-8300bf?style=for-the-badge&logo=linkedin&logoColor=white)](https://vtc-managers.eu/)
-![VtcManager's](https://img.shields.io/gitlab/forks/VtcManagers)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivalops&show_icons=true&locale=en&layout=compact" alt="rivalops" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivalops&show_icons=true&locale=en" alt="rivalops" /></p>
 
