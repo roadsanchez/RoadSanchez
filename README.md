@@ -1,4 +1,5 @@
 <img src="https://flagcdn.com/gb.svg" width="40" title="Anglais">
+
 # Hi, I'm RivalOps ! 👋
 
 ## 🚀 About Me
@@ -17,6 +18,7 @@ VtcManager’s is a multi-function discord bot only for virtual businesses euro 
 
 
 <img src="https://flagcdn.com/fr.svg" width="40" title="Français">
+
 # Bonjour, je suis RivalOps ! 👋
 
 ## 🚀 À propos de moi
