@@ -1,3 +1,4 @@
+🇬🇧
 # Hi, I'm RivalOps ! 👋
 
 ## 🚀 About Me
@@ -15,7 +16,7 @@ VtcManager’s is a multi-function discord bot only for virtual businesses euro 
 - If you would like to see my projects, here are the links below:
 
 
-U+1F1EBU+1F1F7
+🇫🇷
 # Bonjour, je suis RivalOps ! 👋
 
 ## 🚀 À propos de moi
