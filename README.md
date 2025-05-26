@@ -31,8 +31,6 @@ OmniHive est un bot multilingue, principalement lié à la protection des serveu
 ## 🔗 Links
 [![OmniHive](https://img.shields.io/badge/omnihive-fec200?style=for-the-badge&logo=linkedin&logoColor=white)](https://omnihive.fr/)
 
-[![VtcManager's](https://img.shields.io/badge/VtcManager's-8300bf?style=for-the-badge&logo=linkedin&logoColor=white)](https://vtc-managers.eu/)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivalops&show_icons=true&locale=en" alt="rivalops" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivalops&" alt="rivalops" /></p>
