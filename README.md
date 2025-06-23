@@ -103,5 +103,3 @@ Salut les Rick ! Je suis un **développeur passionné**, bidouilleur d’API et 
   <img src="https://wallpaperaccess.com/full/5733834.jpg" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roadsanchez&show_icons=true&locale=en" alt="roadsanchez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roadsanchez&" alt="roadsanchez" /></p>
