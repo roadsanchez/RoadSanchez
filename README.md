@@ -1,7 +1,4 @@
 <h1 align="center">🛸 Bienvenue dans l’univers de Road Sanchez ! 🧪</h1>
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1305593080669405254/1386683929620254822/fa504157d42b042f7fc8b7a39210f868.png?ex=685a998c&is=6859480c&hm=6fdb1e9feec0b131b0284e28ef4ef958291a17db1d448582ff135db3552ad872&=&format=webp&quality=lossless" width="200" />
-</p>
 
 ---
 
