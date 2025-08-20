@@ -36,27 +36,7 @@ Salut les Rick ! Je suis un **développeur passionné**, bidouilleur d’API et 
 
 ---
 
-## [🚚 Rungis Liner](https://rungisliner-vtc.site) — L’escouade galactique des routiers
-
-> Dans un coin tranquille du multivers se trouve **Rungis Liner**, une entreprise virtuelle dans **TruckersMP** (ETS2/ATS). Une team unie, conviviale et carrée comme un cube de Plombulon.
-
-### 🚛 Rejoignez la team, Jerry :
-- ✅ Staff cool et pro
-- 📅 Convois galactiques réguliers
-- 🖌️ Skins & outils exclusifs
-- 📡 Bots intégrés maison
-
-🔗 **Portails quantiques :**  
-→ [Page VTC TruckersMP](https://truckersmp.com/vtc/78887)  
-→ [Site Officiel](https://rungisliner-vtc.site)
-
-```diff
-+ 🚚🪐 REJOINS LE CREW INTERDIMENSIONNELLE DE RUNGIS LINER ! 🚦
-```
-
----
-
-## [🤖 Rungis Hub](https://rungishub.rungisliner-vtc.site) — Le bot qui capte tout
+## [🤖 OmniVtc](https://omnivtc.omnihive.fr/) — Le bot qui capte tout
 
 > Tel un **Meeseeks immortel**, ce bot assiste les routiers de Rungis Liner avec **multilingue, APIs, logique, et interactions stylées**.
 
@@ -73,7 +53,7 @@ Salut les Rick ! Je suis un **développeur passionné**, bidouilleur d’API et 
 | Projet        | Description                                | Langages |
 |---------------|--------------------------------------------|----------|
 | `OmniHive`    | Bot de sécurité interstellaire             | JS, MongoDB, Discord.js |
-| `rungis-hub`  | Bot multilangue pour ETS2/ATS              | JS, EJS, MongoDB |
+| `OmniVtc`  | Bot multilangue pour ETS2/ATS              | JS, EJS, MongoDB |
 
 ---
 
@@ -88,6 +68,7 @@ Salut les Rick ! Je suis un **développeur passionné**, bidouilleur d’API et 
 ## 📬 Tu veux me ping dans ce multivers ?
 
 - 🧪 Serveur Discord support : [OmniHive](https://discord.gg/kzGvxDPWzH)
+- 🧪 Serveur Discord support : [OmniVtc](https://discord.gg/UjHndF87Eh)
 - 💡 Collaborations, idées farfelues ? Je suis toujours curieux...
 
 ---
