@@ -29,12 +29,12 @@ Salut les Rick ! Je suis un **développeur passionné**, bidouilleur d’API et 
 
 📡 **Liens dimensionnels :**  
 - [👾 Site Web](https://omnihive.fr)  
-- [📚 Documentation multiverselle](https://www.documentation.omnihive.fr/)  
+- [📚 Documentation multiverselle](https://omnihive.fr/docs)  
 - [🛸 Discord support](https://discord.gg/kzGvxDPWzH)  
 - [🌌 Top.gg](https://top.gg/bot/1332829226101112882)  
 - [🔗 Ajouter le bot](https://discord.com/application-directory/1332829226101112882)
 
----
+<!-- ---
 
 ## [🤖 OmniVtc](https://omnivtc.omnihive.fr/) — Le bot qui capte tout
 
@@ -69,7 +69,7 @@ Salut les Rick ! Je suis un **développeur passionné**, bidouilleur d’API et 
 
 - 🧪 Serveur Discord support : [OmniHive](https://discord.gg/kzGvxDPWzH)
 - 🧪 Serveur Discord support : [OmniVtc](https://discord.gg/UjHndF87Eh)
-- 💡 Collaborations, idées farfelues ? Je suis toujours curieux...
+- 💡 Collaborations, idées farfelues ? Je suis toujours curieux... -->
 
 ---
 
